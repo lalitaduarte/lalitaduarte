@@ -1,17 +1,3 @@
-# 🚀 Featured Projects
-
-### 📚 BookAria
-A social reading application designed with FlutterFlow and Firebase, focused on reading tracking, goals, statistics, community interaction, and personalized libraries.
-
-### 🎓 Educational Technology Projects
-Digital resources, instructional designs, assessment tools, and learning experiences developed for higher education.
-
-### 🗄️ PostgreSQL Academic Laboratories
-Database exercises and laboratory practices involving SQL, stored procedures, triggers, transactions, auditing, security, and data integrity.
-
-Cuando tengas repositorios públicos, reemplazas cada descripción por una tarjeta o enlace.
-
-Versión reorganizada completa
 # Hi, I'm Laura Cristina Duarte 👋
 
 ### University Professor | Systems Engineer | EdTech & Database Enthusiast
@@ -22,7 +8,7 @@ I design meaningful learning experiences and technological solutions that connec
 
 # 💫 About Me
 
-🔭 I’m currently working on **educational technology, PostgreSQL databases, and digital solutions for higher education**.
+🔭 I’m currently working on **SIECA**, a complete school management system for Colombian public schools, built on **PostgreSQL** with row-level security.
 
 👯 I’m open to collaborating on **EdTech, software engineering, artificial intelligence, databases, and technology projects with educational or social impact**.
 
@@ -33,6 +19,39 @@ I design meaningful learning experiences and technological solutions that connec
 💬 Ask me about **PostgreSQL, database design, software quality, educational technology, academic research, and undergraduate capstone projects**.
 
 ⚡ Fun fact: I move between **rubrics and dragons**, designing databases by day and writing fantasy worlds by night.
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 [SIECA El Rubí](https://github.com/lalitaduarte/sieca-el-rubi) · School Management and Academic Control System
+
+A full web application, in Spanish, for the whole academic cycle of a Colombian public school: setting up the school year according to its evaluation system (SIEE), grading by activities, closing and publishing terms, issuing PDF report cards with QR verification, and deciding student promotion.
+
+- 🔐 **PostgreSQL row-level security**: even if someone bypasses the screens, the database never shows another person's data.
+- 🧭 **Guided school year**: a 14-step guide for the principal, simple “how am I doing” cards for primary students, and teacher-load transfers for leaves and replacements.
+- 🏫 **Everything a public school needs**: attendance, school coexistence (Law 1620), early warnings, official documents, SIMAT export, institutional website, PQRSDF, and transparency (Law 1712).
+- ♿ **WCAG 2.1 AA** accessibility, mobile first, five color themes and dark mode.
+- ✅ **250+ automated tests** (database, server, browser), rehearsed migrations on a copy of production, and encrypted daily backups.
+
+![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+[**🌐 Live demo**](https://sieca-el-rubi.onrender.com) · [Repository](https://github.com/lalitaduarte/sieca-el-rubi) · [User manuals](https://github.com/lalitaduarte/sieca-el-rubi/tree/main/docs/manuales)
+
+*All demo data is fictitious. Demo accounts and their password are listed in the repository README.*
+
+### 📖 BookAria · *Coming soon*
+A social reading application designed with FlutterFlow and Firebase, focused on reading tracking, goals, statistics, community interaction, and personalized libraries. It is my next project.
+
+### 🎓 Educational Technology Projects
+Digital resources, instructional designs, assessment tools, and learning experiences developed for higher education.
+
+### 🗄️ PostgreSQL Academic Laboratories
+Database exercises involving advanced SQL, functions, procedures, triggers, transactions, auditing, security, and data integrity.
 
 ---
 
@@ -57,6 +76,7 @@ I design meaningful learning experiences and technological solutions that connec
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ### 👩‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -64,6 +84,8 @@ I design meaningful learning experiences and technological solutions that connec
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🧩 Frameworks and Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -74,23 +96,12 @@ I design meaningful learning experiences and technological solutions that connec
 ### ☁️ Platforms and Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-### 📚 BookAria
-A social reading application designed with FlutterFlow and Firebase, focused on reading tracking, goals, statistics, community interaction, and personalized libraries.
-
-### 🎓 Educational Technology Projects
-Digital resources, instructional designs, assessment tools, and learning experiences developed for higher education.
-
-### 🗄️ PostgreSQL Academic Laboratories
-Database exercises involving advanced SQL, functions, procedures, triggers, transactions, auditing, security, and data integrity.
 
 ---
 
