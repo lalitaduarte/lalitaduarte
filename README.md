@@ -11,9 +11,7 @@ I teach at UTS in Santander, Colombia, and hold a master's degree in Educational
 <p align="center">
   <img width="410" src="https://skills.syvixor.com/api/icons?i=postgresql,nodejs,expressjs,javascript,git,githubactions,neon,render,figma,canva&amp;perline=10" alt="PostgreSQL and PL/pgSQL, Node.js, Express, JavaScript, Git, GitHub Actions, Neon, Render, Figma, Canva">
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" alt="Moodle">
-  <br>
   <img width="410" src="https://skills.syvixor.com/api/icons?i=mysql,mariadb,sqlserver,sqlite,java,python,php,html,css,apache&amp;perline=10" alt="MySQL, MariaDB, SQL Server, SQLite, Java, Python, PHP, HTML, CSS, Apache">
-  <br>
   <img width="36" src="https://skillicons.dev/icons?i=angular&amp;theme=dark" alt="Angular">
   <img width="368" src="https://skills.syvixor.com/api/icons?i=laravel,reactjs,reactnative,flutter,bootstrap,jwt,flutterflow,firebase&amp;perline=10" alt="Laravel, React, React Native, Flutter, Bootstrap, JWT, FlutterFlow, Firebase">
 </p>
