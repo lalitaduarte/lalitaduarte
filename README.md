@@ -33,6 +33,29 @@ I'm the lead developer of **SIECA**, a Spanish-language school management system
 
 *The demo uses fictitious data. Demo access details are in the project README.*
 
+**Password for all demo accounts: `fh4inaCnJayu`**
+
+| Account | Role | What to Explore |
+|---|---|---|
+| `carlos.gomez` | Principal | Everything: school year setup guide, year-end closing, student promotion, reports, PIAR, teaching assignment transfers, and configuration |
+| `laura.martinez` | Teacher | Gradebooks at different stages and the shared template |
+| `andres.castillo` | Teacher | Another teacher account to compare what each teacher can access |
+| `demo.mate1` | Teacher and Homeroom Teacher | Mathematics across multiple classes and classroom behavior tracking |
+| `demo.espa1` | Teacher and Homeroom Teacher | Spanish Language |
+| `demo.cien` | Teacher and Homeroom Teacher | Science |
+| `demo.pree` | Preschool Teacher | Descriptive assessments by developmental area (Rosa Elena Duarte) |
+| `demo.esttr-2029` | **Preschool Student** (Transition) | Valentina Barón: her developmental assessment report |
+| `demo.acutr-2029` | Preschool Parent/Guardian | Sofía Barón: Valentina's progress report |
+| `demo.esttr-2028` | **Elementary School Student** (First Grade) | Samuel Rojas: the simplified, emoji-based progress view |
+| `demo.acutr-2028` | Elementary School Parent/Guardian | Isabella Rojas: Samuel's academic progress |
+| `demo.est601-2028` | Middle School Student (Seventh Grade) | Sebastián Ortiz |
+| `demo.est1101-2028` | High School Student (Eleventh Grade) | Martín Ramírez: community service and graduation requirements |
+| `ana.rojas` | Student | Grades, annual academic report, and academic progress across two school years |
+| `pedro.rojas` | Ana Rojas's Parent/Guardian | Report cards and academic results |
+| `maria.perez` | Parent/Guardian of Two Students | Switch between linked student profiles |
+
+> **Demo Environment Notice:** These accounts are intentionally public while the project is in its demonstration phase. Anyone can sign in and modify sample data. Before the system is used with real student or institutional data, the repository will be made private and all passwords will be changed.
+
 ### 🛠️ Student Capstone Projects
 
 - **Fercho** — A web app for a local restaurant that connects the public menu, order entry, kitchen workflow, payment recording, and sales reports. [Repository](https://github.com/lalitaduarte/fercho)
