@@ -1,10 +1,14 @@
-# Hi, I'm Laura Cristina Duarte 👋
+<p align="center">
+  <img width="100%" alt="Between Rubrics and Dragons" src="https://capsule-render.vercel.app/api?type=waving&amp;height=165&amp;section=header&amp;color=0%3A211235%2C55%3A522674%2C100%3A8a3769&amp;text=Between+Rubrics+and+Dragons&amp;fontSize=44&amp;fontColor=fff2fc&amp;fontAlignY=39&amp;animation=fadeIn">
+</p>
+
+# Hi, I'm Laura Cristina Duarte <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="36" height="36">
 
 **University Professor · Systems Engineer · PostgreSQL & Educational Technology**
 
 I teach at UTS in Santander, Colombia, and hold a master's degree in Educational Technology Management. I build software for schools and design practical learning experiences for university students. My favorite part of teaching databases is watching students turn a business rule into something they can implement, test, and explain.
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Rocket.png" alt="" width="31" height="31"> Featured Projects
 
 ### 📚 SIECA El Rubí
 
@@ -37,28 +41,15 @@ My next personal project is a social reading app for tracking books and reading 
 - **Capstone mentoring** — I guide students through scoping a real problem, modeling the data, testing business rules, and documenting a solution they can present and defend.
 - **Collaboration** — I'm open to EdTech, database, and software quality projects with an educational or social purpose. I'm currently exploring AI for education, cloud deployment, and scalable application design.
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="" width="30" height="30"> Tech Stack
 
-**Databases and backend**
+<p align="center">
+  <img width="440" alt="PostgreSQL, Node.js, Express, JavaScript, Git, GitHub Actions, Visual Studio Code, and Figma" src="https://skillicons.dev/icons?i=postgres,nodejs,express,js,git,githubactions,vscode,figma&amp;theme=dark&amp;perline=8">
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Development and deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-**Teaching and design**
-
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=black)
+- **Databases and backend** — PostgreSQL, PL/pgSQL, Node.js, Express, JavaScript
+- **Development and deployment** — Git, GitHub Actions, VS Code, Neon, Render
+- **Teaching and design** — Moodle, Figma, Canva
 
 <details>
 <summary>More technologies</summary>
@@ -70,22 +61,36 @@ My next personal project is a social reading app for tracking books and reading 
 
 </details>
 
-## 🐉 Between Rubrics and Dragons
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Animals/Dragon.png" alt="" width="34" height="34"> After Hours
 
-I'm obsessed with books, especially fantasy and romantasy. I write fantasy worlds, rewatch the **Marvel Cinematic Universe (MCU)**, binge **anime** and **manhwa**, and proudly call myself a **girly gamer**. My reading list has its own backlog, and I treat *one more chapter* and *one more quest* as very loose estimates.
+I'm obsessed with books, especially fantasy and romantasy. I write fantasy worlds, rewatch the **Marvel Cinematic Universe (MCU)**, binge **anime** and **manhwa**, and proudly call myself a **girly gamer**.
 
-## 📊 GitHub Activity
+My reading list has its own backlog, and I treat *one more chapter* and *one more quest* as very loose estimates.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Fire.png" alt="" width="30" height="30"> GitHub Activity
 
 <p align="center">
-  <img width="48%" alt="Laura's GitHub activity" src="https://github-readme-stats.shion.dev/api?username=lalitaduarte&amp;theme=monokai&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
-  <img width="48%" alt="Languages used in Laura's GitHub repositories" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lalitaduarte&amp;theme=monokai&amp;hide_border=true&amp;layout=compact">
+  <img width="69%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=lalitaduarte&amp;hide_border=true&amp;background=211235&amp;stroke=774994&amp;ring=d8b4fe&amp;fire=f6aeec&amp;currStreakNum=fff2fc&amp;sideNums=fff2fc&amp;currStreakLabel=f6aeec&amp;sideLabels=f2e5ff&amp;dates=d4c1e7">
 </p>
 
 <p align="center">
-  <img width="70%" alt="Laura's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=lalitaduarte&amp;theme=monokai&amp;hide_border=true">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <img width="100%" alt="An animated snake eating the squares on my GitHub contribution calendar" src="./assets/github-snake.svg">
+  </picture>
 </p>
 
-## 🌐 Connect with Me
+<details>
+<summary>GitHub stats and languages</summary>
+
+<p align="center">
+  <img width="51%" alt="GitHub activity and contributions" src="https://github-stats-extended.vercel.app/api?username=lalitaduarte&amp;show_icons=true&amp;hide_border=true&amp;bg_color=211235&amp;title_color=f6aeec&amp;text_color=f2e5ff&amp;icon_color=d8b4fe">
+  <img width="43%" alt="Languages used in my GitHub repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lalitaduarte&amp;layout=compact&amp;hide_border=true&amp;bg_color=211235&amp;title_color=f6aeec&amp;text_color=f2e5ff">
+</p>
+
+</details>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Smilies/Purple%20Heart.png" alt="" width="28" height="28"> Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalitaduarte)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@IngLauraDuarte)
@@ -95,3 +100,10 @@ I'm obsessed with books, especially fantasy and romantasy. I write fantasy world
 <p align="center">
   <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=lalitaduarte&amp;style=flat-square&amp;color=blueviolet">
 </p>
+
+<details>
+<summary>Visual credits</summary>
+
+[Microsoft Fluent Emojis, curated by Tarikul Islam Anik](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) · [Capsule Render](https://github.com/kyechan99/capsule-render) · [Skill Icons](https://github.com/tandpfun/skill-icons) · [Platane/snk](https://github.com/Platane/snk) · [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) · [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) · [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
+
+</details>
