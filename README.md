@@ -1,122 +1,89 @@
 # Hi, I'm Laura Cristina Duarte 👋
 
-### University Professor | Systems Engineer | EdTech & Database Enthusiast
+**University Professor · Systems Engineer · PostgreSQL & Educational Technology**
 
-I design meaningful learning experiences and technological solutions that connect education, software engineering, databases, and social impact.
+I teach at UTS in Santander, Colombia, and hold a master's degree in Educational Technology Management. I build software for schools and design practical learning experiences for university students. My favorite part of teaching databases is watching students turn a business rule into something they can implement, test, and explain.
 
----
+## 🚀 Featured Projects
 
-# 💫 About Me
+### 📚 SIECA El Rubí
 
-🔭 I’m currently working on **SIECA**, a complete school management system for Colombian public schools, built on **PostgreSQL** with row-level security.
+I'm the lead developer of **SIECA**, a Spanish-language school management system developed with UTS faculty and students for Institución Educativa El Rubí in La Belleza, Santander. It supports the academic year from setting up the school's assessment rules (SIEE) to recording grades, publishing term results, issuing report cards, and reviewing student promotion.
 
-👯 I’m open to collaborating on **EdTech, software engineering, artificial intelligence, databases, and technology projects with educational or social impact**.
+- **Academic workflows** — Activity-based grading, attendance, early alerts, teacher assignment transfers, and a guided school-year checklist.
+- **Reports and school services** — PDF report cards and certificates with QR verification, data exports for SIMAT reconciliation, and a public school website with a request-tracking portal.
+- **Security and quality** — PostgreSQL row-level security, audit trails for grade changes, versioned migrations, encrypted daily backups, and 250+ automated tests.
+- **Accessibility** — Mobile-friendly screens, five color themes, dark mode, and automated accessibility checks against WCAG 2.1 Level AA criteria.
 
-🤝 I’m interested in strengthening my experience in **AI integration, cloud computing, and scalable software architectures**.
+**Built with** Node.js 22 · Express 5 · PostgreSQL 17 · Neon · Render
 
-🌱 I’m currently learning more about **FlutterFlow, Firebase, cloud technologies, and AI applied to education**.
+[**Live demo**](https://sieca-el-rubi.onrender.com) · [Repository](https://github.com/lalitaduarte/sieca-el-rubi) · [Data model](https://github.com/lalitaduarte/sieca-el-rubi/blob/main/docs/modelo_datos.md) · [User manuals in Spanish](https://github.com/lalitaduarte/sieca-el-rubi/tree/main/docs/manuales)
 
-💬 Ask me about **PostgreSQL, database design, software quality, educational technology, academic research, and undergraduate capstone projects**.
+*The demo uses fictitious data. Demo access details are in the project README.*
 
-⚡ Fun fact: I move between **rubrics and dragons**, designing databases by day and writing fantasy worlds by night.
+### 🛠️ Student Capstone Projects
 
----
+- **Fercho** — A web app for a local restaurant that connects the public menu, order entry, kitchen workflow, payment recording, and sales reports. [Repository](https://github.com/lalitaduarte/fercho)
+- **CAM Proyectos Inmobiliarios** — A web app for managing vacation-property usage weeks and installment payments. PostgreSQL handles booking rules and transaction integrity. [Repository](https://github.com/lalitaduarte/cam-proyectos-inmobiliario)
 
-# 🚀 Featured Projects
+### 📖 BookAria · Planned
 
-### 📚 [SIECA El Rubí](https://github.com/lalitaduarte/sieca-el-rubi) · School Management and Academic Control System
+My next personal project is a social reading app for tracking books and reading goals, exploring reading stats, and sharing recommendations. I plan to build it with FlutterFlow and Firebase.
 
-A full web application, in Spanish, for the whole academic cycle of a Colombian public school: setting up the school year according to its evaluation system (SIEE), grading by activities, closing and publishing terms, issuing PDF report cards with QR verification, and deciding student promotion.
+## 🎓 Teaching, Mentoring & Collaboration
 
-- 🔐 **PostgreSQL row-level security**: even if someone bypasses the screens, the database never shows another person's data.
-- 🧭 **Guided school year**: a 14-step guide for the principal, simple “how am I doing” cards for primary students, and teacher-load transfers for leaves and replacements.
-- 🏫 **Everything a public school needs**: attendance, school coexistence (Law 1620), early warnings, official documents, SIMAT export, institutional website, PQRSDF, and transparency (Law 1712).
-- ♿ **WCAG 2.1 AA** accessibility, mobile first, five color themes and dark mode.
-- ✅ **250+ automated tests** (database, server, browser), rehearsed migrations on a copy of production, and encrypted daily backups.
+- **In the classroom** — I teach databases, software quality, digital simulation, and research methods. My PostgreSQL labs cover relational modeling, SQL, PL/pgSQL, triggers, transactions, auditing, and access control.
+- **Learning design** — I create Moodle activities, practical assessments, and rubrics that connect course outcomes to working software. [Teaching videos](https://www.youtube.com/@IngLauraDuarte)
+- **Capstone mentoring** — I guide students through scoping a real problem, modeling the data, testing business rules, and documenting a solution they can present and defend.
+- **Collaboration** — I'm open to EdTech, database, and software quality projects with an educational or social purpose. I'm currently exploring AI for education, cloud deployment, and scalable application design.
 
-![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+## 💻 Tech Stack
 
-[**🌐 Live demo**](https://sieca-el-rubi.onrender.com) · [Repository](https://github.com/lalitaduarte/sieca-el-rubi) · [User manuals](https://github.com/lalitaduarte/sieca-el-rubi/tree/main/docs/manuales)
+**Databases and backend**
 
-*All demo data is fictitious. Demo accounts and their password are listed in the repository README.*
-
-### 📖 BookAria · *Coming soon*
-A social reading application designed with FlutterFlow and Firebase, focused on reading tracking, goals, statistics, community interaction, and personalized libraries. It is my next project.
-
-### 🎓 Educational Technology Projects
-Digital resources, instructional designs, assessment tools, and learning experiences developed for higher education.
-
-### 🗄️ PostgreSQL Academic Laboratories
-Database exercises involving advanced SQL, functions, procedures, triggers, transactions, auditing, security, and data integrity.
-
----
-
-# 🎯 Areas of Interest
-
-- Educational Technology and Digital Learning
-- PostgreSQL and Relational Database Design
-- Software Quality and Testing
-- Artificial Intelligence Applied to Education
-- Undergraduate Research and Capstone Projects
-- Technology with Educational and Social Impact
-
----
-
-# 💻 Tech Stack
-
-### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-### 👩‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🧩 Frameworks and Development
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### ☁️ Platforms and Tools
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+**Development and deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**Teaching and design**
+
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=black)
 
----
+<details>
+<summary>More technologies</summary>
 
-# 📊 GitHub Analytics
+- **Databases** — MySQL, MariaDB, SQL Server, SQLite
+- **Languages and web** — Java, Python, PHP, HTML, CSS
+- **Frameworks and tools** — Laravel, Angular, React, React Native, Flutter, Bootstrap, Apache, JWT
+- **Currently exploring** — FlutterFlow and Firebase
+
+</details>
+
+## 🐉 Between Rubrics and Dragons
+
+I'm obsessed with books, especially fantasy and romantasy. I write fantasy worlds, rewatch the **Marvel Cinematic Universe (MCU)**, binge **anime** and **manhwa**, and proudly call myself a **girly gamer**. My reading list has its own backlog, and I treat *one more chapter* and *one more quest* as very loose estimates.
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=lalitaduarte&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lalitaduarte&theme=monokai&hide_border=true&layout=compact" />
+  <img width="48%" alt="Laura's GitHub activity" src="https://github-readme-stats.shion.dev/api?username=lalitaduarte&amp;theme=monokai&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
+  <img width="48%" alt="Languages used in Laura's GitHub repositories" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lalitaduarte&amp;theme=monokai&amp;hide_border=true&amp;layout=compact">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=lalitaduarte&theme=monokai&hide_border=true" />
+  <img width="70%" alt="Laura's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=lalitaduarte&amp;theme=monokai&amp;hide_border=true">
 </p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -125,8 +92,6 @@ Database exercises involving advanced SQL, functions, procedures, triggers, tran
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lalita_duarte)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/lalitaduarte)
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalitaduarte&style=flat-square&color=brightgreen" />
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=lalitaduarte&amp;style=flat-square&amp;color=blueviolet">
 </p>
