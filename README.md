@@ -8,6 +8,16 @@
 
 I teach at UTS in Santander, Colombia, and hold a master's degree in Educational Technology Management. I build software for schools and design practical learning experiences for university students. My favorite part of teaching databases is watching students turn a business rule into something they can implement, test, and explain.
 
+<p align="center">
+  <img width="410" src="https://skills.syvixor.com/api/icons?i=postgresql,nodejs,expressjs,javascript,git,githubactions,neon,render,figma,canva&amp;perline=10" alt="PostgreSQL and PL/pgSQL, Node.js, Express, JavaScript, Git, GitHub Actions, Neon, Render, Figma, Canva">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" alt="Moodle">
+  <br>
+  <img width="410" src="https://skills.syvixor.com/api/icons?i=mysql,mariadb,sqlserver,sqlite,java,python,php,html,css,apache&amp;perline=10" alt="MySQL, MariaDB, SQL Server, SQLite, Java, Python, PHP, HTML, CSS, Apache">
+  <br>
+  <img width="36" src="https://skillicons.dev/icons?i=angular&amp;theme=dark" alt="Angular">
+  <img width="368" src="https://skills.syvixor.com/api/icons?i=laravel,reactjs,reactnative,flutter,bootstrap,jwt,flutterflow,firebase&amp;perline=10" alt="Laravel, React, React Native, Flutter, Bootstrap, JWT, FlutterFlow, Firebase">
+</p>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/55e1dceff489121c3f7c7a7ec4f4d401d2cbd53e/Emojis/Travel%20and%20places/Rocket.png" alt="" width="31" height="31"> Featured Projects
 
 ### 📚 SIECA El Rubí
